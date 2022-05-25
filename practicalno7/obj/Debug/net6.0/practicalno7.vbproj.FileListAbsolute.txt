@@ -1,0 +1,15 @@
+F:\Vb_NetExamples\consolebase\practicalno7\bin\Debug\net6.0\practicalno7.exe
+F:\Vb_NetExamples\consolebase\practicalno7\bin\Debug\net6.0\practicalno7.deps.json
+F:\Vb_NetExamples\consolebase\practicalno7\bin\Debug\net6.0\practicalno7.runtimeconfig.json
+F:\Vb_NetExamples\consolebase\practicalno7\bin\Debug\net6.0\practicalno7.dll
+F:\Vb_NetExamples\consolebase\practicalno7\bin\Debug\net6.0\practicalno7.pdb
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.vbproj.AssemblyReference.cache
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.AssemblyInfoInputs.cache
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.AssemblyInfo.vb
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.vbproj.CoreCompileInputs.cache
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.dll
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\refint\practicalno7.dll
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.pdb
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\practicalno7.genruntimeconfig.cache
+F:\Vb_NetExamples\consolebase\practicalno7\obj\Debug\net6.0\ref\practicalno7.dll
