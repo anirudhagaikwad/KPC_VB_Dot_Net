@@ -12,7 +12,7 @@ Module Program
         Loop While a < 5
 
         Console.ReadLine()
-        'program to create any tables'
+        'program to create  tables'
         Dim n1, n2 As Integer
         Console.WriteLine("Enter any number:")
         n1 = 0

@@ -3,6 +3,8 @@ Imports System
 Module Program
     Sub Main(args As String())
         'for program
+
+        Console.WriteLine("For Loop... print 1 to 20 step 2")
         Dim i As Double
 
         For i = 11 To 20 Step 2
@@ -11,7 +13,7 @@ Module Program
         Console.ReadLine()
 
         'for each program'
-
+        Console.WriteLine("For Each Loop...Travers on array")
         Dim arr As Array = {1, 3, 4, 6, 8, 9}
         Dim c As Integer
         For Each c In arr
@@ -19,33 +21,24 @@ Module Program
         Next
         Console.ReadLine()
 
-        'Armstrong no program'
+        'Armstrong no program - An Armstrong number of is an integer such that the sum of the cubes of its digits is equal to the number itself.'
+        Console.WriteLine("While Loop... number is Armstrong or Not ")
+        Dim n As Integer, r, temp As Integer, sum As Integer = 0
+        Console.Write("Enter the Number= ")
+        n = Integer.Parse(Console.ReadLine())
+        temp = n
 
-        Dim num, temp, remd, sum, a As Integer
-        For num = 1 To 500
-            temp = num
-            sum = 0
-            For a = 1 To num
-                remd = temp Mod 10
-                If num < 10 Then
-                    sum = remd + sum
-                ElseIf num < 100 Then
-                    sum = (remd * remd) + sum
-                Else
-                    sum = (remd * remd * remd) + sum
-                End If
-                temp = temp \ 10
+        While n > 0
+            r = n Mod 10
+            sum = sum + (r * r * r)
+            n = n / 10
+        End While
 
-            Next
-            If num = sum Then
-                Console.WriteLine(num)
-
-
-            End If
-        Next
-
+        If temp = sum Then
+            Console.Write("Armstrong Number.")
+        Else
+            Console.Write("Not Armstrong Number.")
+        End If
         Console.ReadLine()
-
-
     End Sub
 End Module

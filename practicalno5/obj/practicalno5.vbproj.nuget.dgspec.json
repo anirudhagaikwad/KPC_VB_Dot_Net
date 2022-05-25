@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aniru\\OneDrive\\Desktop\\Vb_NetExamples\\desktopbaseapplication\\practicalno5\\practicalno5.vbproj": {}
+    "F:\\Vb_NetExamples\\practicalno5\\practicalno5.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\aniru\\OneDrive\\Desktop\\Vb_NetExamples\\desktopbaseapplication\\practicalno5\\practicalno5.vbproj": {
+    "F:\\Vb_NetExamples\\practicalno5\\practicalno5.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aniru\\OneDrive\\Desktop\\Vb_NetExamples\\desktopbaseapplication\\practicalno5\\practicalno5.vbproj",
+        "projectUniqueName": "F:\\Vb_NetExamples\\practicalno5\\practicalno5.vbproj",
         "projectName": "practicalno5",
-        "projectPath": "C:\\Users\\aniru\\OneDrive\\Desktop\\Vb_NetExamples\\desktopbaseapplication\\practicalno5\\practicalno5.vbproj",
-        "packagesPath": "C:\\Users\\aniru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aniru\\OneDrive\\Desktop\\Vb_NetExamples\\desktopbaseapplication\\practicalno5\\obj\\",
+        "projectPath": "F:\\Vb_NetExamples\\practicalno5\\practicalno5.vbproj",
+        "packagesPath": "C:\\Users\\Pooja Patil\\.nuget\\packages\\",
+        "outputPath": "F:\\Vb_NetExamples\\practicalno5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aniru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pooja Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {

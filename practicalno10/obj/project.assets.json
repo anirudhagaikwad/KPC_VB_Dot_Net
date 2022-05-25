@@ -8,26 +8,27 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pooja Patil\\.nuget\\packages\\": {}
+    "C:\\Users\\aniru\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Vb_NetExamples\\desktopbaseapplication\\practicalno10\\practicalno10.vbproj",
+      "projectUniqueName": "C:\\BodhiAcademi\\DotNet\\VBNet\\Aspiring\\KarmayogiPoly_23May_28May2022\\KPC_VB_Dot_Net\\practicalno10\\practicalno10.vbproj",
       "projectName": "practicalno10",
-      "projectPath": "F:\\Vb_NetExamples\\desktopbaseapplication\\practicalno10\\practicalno10.vbproj",
-      "packagesPath": "C:\\Users\\Pooja Patil\\.nuget\\packages\\",
-      "outputPath": "F:\\Vb_NetExamples\\desktopbaseapplication\\practicalno10\\obj\\",
+      "projectPath": "C:\\BodhiAcademi\\DotNet\\VBNet\\Aspiring\\KarmayogiPoly_23May_28May2022\\KPC_VB_Dot_Net\\practicalno10\\practicalno10.vbproj",
+      "packagesPath": "C:\\Users\\aniru\\.nuget\\packages\\",
+      "outputPath": "C:\\BodhiAcademi\\DotNet\\VBNet\\Aspiring\\KarmayogiPoly_23May_28May2022\\KPC_VB_Dot_Net\\practicalno10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pooja Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aniru\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {

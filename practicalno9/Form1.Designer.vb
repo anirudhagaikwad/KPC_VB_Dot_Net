@@ -23,47 +23,37 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.CheckBox3 = New System.Windows.Forms.CheckBox()
         Me.CheckBox2 = New System.Windows.Forms.CheckBox()
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.RadioButton2 = New System.Windows.Forms.RadioButton()
         Me.RadioButton1 = New System.Windows.Forms.RadioButton()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
         '
         'GroupBox1
         '
-        Me.GroupBox1.Controls.Add(Me.Button1)
         Me.GroupBox1.Controls.Add(Me.CheckBox3)
         Me.GroupBox1.Controls.Add(Me.CheckBox2)
         Me.GroupBox1.Controls.Add(Me.CheckBox1)
-        Me.GroupBox1.Location = New System.Drawing.Point(96, 32)
+        Me.GroupBox1.Location = New System.Drawing.Point(423, 223)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(298, 157)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
-        Me.GroupBox1.Text = "Age"
-        '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(178, 72)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(94, 29)
-        Me.Button1.TabIndex = 3
-        Me.Button1.Text = "Show Age"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.GroupBox1.Text = "CheckboxGroup"
         '
         'CheckBox3
         '
         Me.CheckBox3.AutoSize = True
         Me.CheckBox3.Location = New System.Drawing.Point(60, 114)
         Me.CheckBox3.Name = "CheckBox3"
-        Me.CheckBox3.Size = New System.Drawing.Size(80, 24)
+        Me.CheckBox3.Size = New System.Drawing.Size(103, 24)
         Me.CheckBox3.TabIndex = 2
-        Me.CheckBox3.Text = "over 25"
+        Me.CheckBox3.Text = "Unchecked"
         Me.CheckBox3.UseVisualStyleBackColor = True
         '
         'CheckBox2
@@ -71,9 +61,9 @@ Partial Class Form1
         Me.CheckBox2.AutoSize = True
         Me.CheckBox2.Location = New System.Drawing.Point(60, 66)
         Me.CheckBox2.Name = "CheckBox2"
-        Me.CheckBox2.Size = New System.Drawing.Size(89, 24)
+        Me.CheckBox2.Size = New System.Drawing.Size(103, 24)
         Me.CheckBox2.TabIndex = 1
-        Me.CheckBox2.Text = "under 25"
+        Me.CheckBox2.Text = "Unchecked"
         Me.CheckBox2.UseVisualStyleBackColor = True
         '
         'CheckBox1
@@ -81,9 +71,9 @@ Partial Class Form1
         Me.CheckBox1.AutoSize = True
         Me.CheckBox1.Location = New System.Drawing.Point(60, 26)
         Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(89, 24)
+        Me.CheckBox1.Size = New System.Drawing.Size(103, 24)
         Me.CheckBox1.TabIndex = 0
-        Me.CheckBox1.Text = "under 15"
+        Me.CheckBox1.Text = "Unchecked"
         Me.CheckBox1.UseVisualStyleBackColor = True
         '
         'GroupBox2
@@ -95,17 +85,17 @@ Partial Class Form1
         Me.GroupBox2.Size = New System.Drawing.Size(298, 146)
         Me.GroupBox2.TabIndex = 1
         Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "GroupBox2"
+        Me.GroupBox2.Text = "RadioBoxGroup"
         '
         'RadioButton2
         '
         Me.RadioButton2.AutoSize = True
         Me.RadioButton2.Location = New System.Drawing.Point(45, 94)
         Me.RadioButton2.Name = "RadioButton2"
-        Me.RadioButton2.Size = New System.Drawing.Size(121, 24)
+        Me.RadioButton2.Size = New System.Drawing.Size(78, 24)
         Me.RadioButton2.TabIndex = 1
         Me.RadioButton2.TabStop = True
-        Me.RadioButton2.Text = "RadioButton2"
+        Me.RadioButton2.Text = "Female"
         Me.RadioButton2.UseVisualStyleBackColor = True
         '
         'RadioButton1
@@ -113,17 +103,28 @@ Partial Class Form1
         Me.RadioButton1.AutoSize = True
         Me.RadioButton1.Location = New System.Drawing.Point(45, 26)
         Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(121, 24)
+        Me.RadioButton1.Size = New System.Drawing.Size(63, 24)
         Me.RadioButton1.TabIndex = 0
         Me.RadioButton1.TabStop = True
-        Me.RadioButton1.Text = "RadioButton1"
+        Me.RadioButton1.Text = "Male"
         Me.RadioButton1.UseVisualStyleBackColor = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.Label1.Location = New System.Drawing.Point(182, 51)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(475, 25)
+        Me.Label1.TabIndex = 2
+        Me.Label1.Text = "Q9)Develop a program using Radio button, check box."
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "Form1"
@@ -133,6 +134,7 @@ Partial Class Form1
         Me.GroupBox2.ResumeLayout(False)
         Me.GroupBox2.PerformLayout()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
@@ -142,6 +144,6 @@ Partial Class Form1
     Friend WithEvents GroupBox2 As GroupBox
     Friend WithEvents RadioButton2 As RadioButton
     Friend WithEvents RadioButton1 As RadioButton
-    Friend WithEvents Button1 As Button
     Friend WithEvents CheckBox3 As CheckBox
+    Friend WithEvents Label1 As Label
 End Class

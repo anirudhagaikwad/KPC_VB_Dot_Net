@@ -27,13 +27,14 @@ Partial Class Form1
         Me.Label2 = New System.Windows.Forms.Label()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(56, 34)
+        Me.Label1.Location = New System.Drawing.Point(168, 110)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(146, 25)
         Me.Label1.TabIndex = 0
@@ -41,16 +42,16 @@ Partial Class Form1
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(289, 32)
+        Me.TextBox1.Location = New System.Drawing.Point(448, 108)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(168, 27)
+        Me.TextBox1.Size = New System.Drawing.Size(250, 27)
         Me.TextBox1.TabIndex = 1
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Label2.Location = New System.Drawing.Point(66, 118)
+        Me.Label2.Location = New System.Drawing.Point(156, 195)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(185, 25)
         Me.Label2.TabIndex = 2
@@ -58,26 +59,37 @@ Partial Class Form1
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(289, 116)
+        Me.TextBox2.Location = New System.Drawing.Point(448, 184)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(168, 27)
+        Me.TextBox2.Size = New System.Drawing.Size(250, 27)
         Me.TextBox2.TabIndex = 3
         '
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Button1.Location = New System.Drawing.Point(247, 218)
+        Me.Button1.Location = New System.Drawing.Point(273, 304)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(172, 47)
         Me.Button1.TabIndex = 4
         Me.Button1.Text = "Reverse"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Segoe UI", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.Label3.Location = New System.Drawing.Point(131, 27)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(464, 25)
+        Me.Label3.TabIndex = 5
+        Me.Label3.Text = "Q8)Develop a program using Text box, Label, Button."
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.Label2)
@@ -95,4 +107,5 @@ Partial Class Form1
     Friend WithEvents Label2 As Label
     Friend WithEvents TextBox2 As TextBox
     Friend WithEvents Button1 As Button
+    Friend WithEvents Label3 As Label
 End Class

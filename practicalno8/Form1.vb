@@ -6,4 +6,6 @@
         TextBox2.Text = strrev
 
     End Sub
+
+
 End Class
