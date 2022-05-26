@@ -59,7 +59,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Button1.Location = New System.Drawing.Point(231, 257)
+        Me.Button1.Location = New System.Drawing.Point(371, 254)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(235, 63)
         Me.Button1.TabIndex = 4
