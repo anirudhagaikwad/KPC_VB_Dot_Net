@@ -1,0 +1,45 @@
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.vbproj.AssemblyReference.cache
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.AssemblyInfoInputs.cache
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.AssemblyInfo.vb
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.vbproj.CoreCompileInputs.cache
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.exe
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.deps.json
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.runtimeconfig.json
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.dll
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.pdb
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.dll
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\refint\PracitialQ22.dll
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.pdb
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.genruntimeconfig.cache
+D:\internship2022\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\ref\PracitialQ22.dll
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.exe
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.deps.json
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.runtimeconfig.json
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.dll
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.pdb
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.vbproj.AssemblyReference.cache
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.AssemblyInfoInputs.cache
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.AssemblyInfo.vb
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.vbproj.CoreCompileInputs.cache
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.dll
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\refint\PracitialQ22.dll
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.pdb
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.genruntimeconfig.cache
+C:\Users\Pooja Patil\Downloads\VB-NETPRATICALS\VB-NETPRATICALS\PracitialQ22\PracitialQ22\obj\Debug\net6.0\ref\PracitialQ22.dll
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.exe
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.deps.json
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.runtimeconfig.json
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.dll
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\bin\Debug\net6.0\PracitialQ22.pdb
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.vbproj.AssemblyReference.cache
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.GeneratedMSBuildEditorConfig.editorconfig
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.AssemblyInfoInputs.cache
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.AssemblyInfo.vb
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.vbproj.CoreCompileInputs.cache
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.dll
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\refint\PracitialQ22.dll
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.pdb
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\PracitialQ22.genruntimeconfig.cache
+F:\vb.netQ15-23\consoleapplication\PracitialQ22\PracitialQ22\obj\Debug\net6.0\ref\PracitialQ22.dll

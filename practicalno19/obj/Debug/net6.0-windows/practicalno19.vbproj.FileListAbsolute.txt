@@ -1,0 +1,51 @@
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\bin\Debug\net6.0-windows\practicalno19.exe
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\bin\Debug\net6.0-windows\practicalno19.deps.json
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\bin\Debug\net6.0-windows\practicalno19.runtimeconfig.json
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\bin\Debug\net6.0-windows\practicalno19.dll
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\bin\Debug\net6.0-windows\practicalno19.pdb
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.AssemblyReference.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.Form1.resources
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.GenerateResource.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.AssemblyInfoInputs.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.AssemblyInfo.vb
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.CoreCompileInputs.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.dll
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\refint\practicalno19.dll
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.pdb
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\practicalno19.genruntimeconfig.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno19\obj\Debug\net6.0-windows\ref\practicalno19.dll
+F:\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.exe
+F:\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.deps.json
+F:\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.runtimeconfig.json
+F:\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.dll
+F:\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.pdb
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.AssemblyReference.cache
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.Form1.resources
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.GenerateResource.cache
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.GeneratedMSBuildEditorConfig.editorconfig
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.AssemblyInfoInputs.cache
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.AssemblyInfo.vb
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.CoreCompileInputs.cache
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.dll
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\refint\practicalno19.dll
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.pdb
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.genruntimeconfig.cache
+F:\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\ref\practicalno19.dll
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.exe
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.deps.json
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.runtimeconfig.json
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.dll
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\bin\Debug\net6.0-windows\practicalno19.pdb
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.AssemblyReference.cache
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.Form1.resources
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.GenerateResource.cache
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.GeneratedMSBuildEditorConfig.editorconfig
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.AssemblyInfoInputs.cache
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.AssemblyInfo.vb
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.vbproj.CoreCompileInputs.cache
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.dll
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\refint\practicalno19.dll
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.pdb
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\practicalno19.genruntimeconfig.cache
+C:\BodhiAcademi\DotNet\VBNet\vb.netQ15-23 (1)\vb.netQ15-23\practicalno19\obj\Debug\net6.0-windows\ref\practicalno19.dll

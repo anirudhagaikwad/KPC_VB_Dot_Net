@@ -1,0 +1,17 @@
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\bin\Debug\net6.0-windows\practicalno15.exe
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\bin\Debug\net6.0-windows\practicalno15.deps.json
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\bin\Debug\net6.0-windows\practicalno15.runtimeconfig.json
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\bin\Debug\net6.0-windows\practicalno15.dll
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\bin\Debug\net6.0-windows\practicalno15.pdb
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.vbproj.AssemblyReference.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.Form1.resources
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.vbproj.GenerateResource.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.AssemblyInfoInputs.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.AssemblyInfo.vb
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.vbproj.CoreCompileInputs.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.dll
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\refint\practicalno15.dll
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.pdb
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\practicalno15.genruntimeconfig.cache
+F:\Vb_NetExamples\desktopbaseapplication\practicalno15\obj\Debug\net6.0-windows\ref\practicalno15.dll

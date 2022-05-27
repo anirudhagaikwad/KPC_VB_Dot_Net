@@ -45,9 +45,9 @@ Partial Class Form1
         Me.Label3.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label3.Location = New System.Drawing.Point(123, 145)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(177, 28)
+        Me.Label3.Size = New System.Drawing.Size(190, 28)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Enter Your Name:"
+        Me.Label3.Text = "Enter Any number:"
         '
         'TextBox1
         '
@@ -59,11 +59,11 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Button1.Location = New System.Drawing.Point(371, 254)
+        Me.Button1.Location = New System.Drawing.Point(293, 228)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(235, 63)
+        Me.Button1.Size = New System.Drawing.Size(172, 48)
         Me.Button1.TabIndex = 4
-        Me.Button1.Text = "Execute Function"
+        Me.Button1.Text = "Find Factorial"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Form1

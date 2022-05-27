@@ -1,0 +1,15 @@
+F:\vb.netQ15-23\consoleapplication\practicalno20\bin\Debug\net6.0\practicalno20.exe
+F:\vb.netQ15-23\consoleapplication\practicalno20\bin\Debug\net6.0\practicalno20.deps.json
+F:\vb.netQ15-23\consoleapplication\practicalno20\bin\Debug\net6.0\practicalno20.runtimeconfig.json
+F:\vb.netQ15-23\consoleapplication\practicalno20\bin\Debug\net6.0\practicalno20.dll
+F:\vb.netQ15-23\consoleapplication\practicalno20\bin\Debug\net6.0\practicalno20.pdb
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.vbproj.AssemblyReference.cache
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.GeneratedMSBuildEditorConfig.editorconfig
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.AssemblyInfoInputs.cache
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.AssemblyInfo.vb
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.vbproj.CoreCompileInputs.cache
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.dll
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\refint\practicalno20.dll
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.pdb
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\practicalno20.genruntimeconfig.cache
+F:\vb.netQ15-23\consoleapplication\practicalno20\obj\Debug\net6.0\ref\practicalno20.dll
