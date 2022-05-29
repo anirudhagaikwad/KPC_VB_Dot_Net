@@ -1,0 +1,19 @@
+Easy way to convert in .exe in VB.NET:
+
+Create New Project
+
+Select Windows Application And Save Proper Path
+
+Comple Project then Select File-> Save All
+
+Select Build->Start Build
+
+Your Project .exe Created Your Project Save Path:
+
+Select Windows Application 1
+
+Select bin Folder
+
+Select Debug Folder
+
+And in Debug folder your .exe File is ready.
